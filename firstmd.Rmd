@@ -1,0 +1,17 @@
+---
+title: "firstmd"
+output: html_document
+date: "2024-11-18"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My *first* version controlled project in RStudio. 
+
+test plot of inbuilt cars dataset below 
+
+```{r. test-plot}
+plot(cars)
+```
