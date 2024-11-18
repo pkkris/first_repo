@@ -10,10 +10,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This report docuents my first attempts of using Git and GitHub to version control an RStudio project. I will be modifying this report, staging and committing changes and then pushing to GitHub.
 
-Test [;pt pf dostamce amd s[eed ]]
+Test
 
 ```{r, test-plot}
-plot(cars, col= "red", xlab = "speed (mph)", ylab = "distance (miles)")
+plot(cars, col= "blue", xlab = "speed (mph)", ylab = "distance (miles)")
 ```
 
 A summary of the data frame is given below 
